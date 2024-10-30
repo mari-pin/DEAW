@@ -1,1 +1,5 @@
 "a proposito del reposito DEAW para 2Daw"  
+" | Nombre de usuario | Nombre  |" 
+" | Joel | https://github.com/JoelGutierrezRuiz  |" 
+" | Samuel | https://github.com/Scivera  |" 
+" | Alejandro | https://github.com/alorenzot-edu  |" 
